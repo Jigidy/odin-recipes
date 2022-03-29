@@ -12,3 +12,14 @@ Entry 1
     - This is also just a basic html project so don't get to hung up on it bucko. 
 
 - I want to see if I can centre the text. It might not be an HTML thing but I want to try and figure it out anyways. 
+
+Entry 2
+
+- Getting further along in the project. I'm pretty sure I could just hand it in as it is now, but I want to try and improve it in a few ways. 
+1. First, I still want to see if I can centre some of the text with HTML. Hell, I'll even do a little bit of CSS at this point if it is not too crazy too put it off.
+2. Can we tab paragraphs? We need to try and tab paragraphs. I'm sure its really simple, might even just be hitting tab in the element. 
+3. Can we change the text colour and the background colour to white and dark, respectively? Darkmode is better
+4. Adding links to each page that leads back to the index.html page, as well as to the top of the page. 
+5. Editing, essentially. We just need to now check through and make sure everything is spelled right and we really improve on the irreverent and comedic tonnes. 
+
+
