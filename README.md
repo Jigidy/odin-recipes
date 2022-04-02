@@ -22,4 +22,11 @@ Entry 2
 4. Adding links to each page that leads back to the index.html page, as well as to the top of the page. 
 5. Editing, essentially. We just need to now check through and make sure everything is spelled right and we really improve on the irreverent and comedic tonnes. 
 
+Entry 3 (Final Entry Probably)
 
+- We basically have to edit stuff and make more links. 
+- I have added a little bit of inline CSS to make the paragraphs tab, because I wanted them to. Untabbed paragraphs are the worst, so they need to tab.
+- Darkmode? I have not explored this, and I'm feeling that I may not get to it. Feels like a CSS thing, which I'll probably learn more about later. 
+- Links being added will be quick and easy. 
+
+Then after all of this we just have to publish it to the internet!
