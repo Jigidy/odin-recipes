@@ -2,11 +2,13 @@
     color: blue;
     font-size: larger;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 40px;
 }
 
 .header {
-    color: blue;
+    color: green;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
+    
 }
