@@ -5,10 +5,16 @@
     text-indent: 40px;
 }
 
-.header {
+.minor-header {
     color: green;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
     
+}
+
+img {
+    width: 500px
+    height: 500px
+    float: 50%
 }
