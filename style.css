@@ -13,8 +13,21 @@
     
 }
 
-img {
-    width: 500px
-    height: 500px
-    float: 50%
+.header {
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
 }
+/* This img selector is not implementing the properties and only god knows why.
+- Tried using an ID selector to get around specificity, but I have the same problem
+- Other selectors implement their properties just fine.
+-  */
+
+img {
+    image-rendering: auto;   
+    width: 500px;
+    height: 350px;
+    float: calc(50);
+}
+
