@@ -19,15 +19,22 @@
     font-size: xx-large;
     text-align: center;
 }
-/* This img selector is not implementing the properties and only god knows why.
-- Tried using an ID selector to get around specificity, but I have the same problem
-- Other selectors implement their properties just fine.
--  */
 
 img {
     image-rendering: auto;   
-    width: 500px;
+    width: 400px;
     height: 350px;
-    float: calc(50);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.gradient {
+    height: 100px;
+    background-color: red;
+    background-image:
+      linear-gradient(
+        to right, 
+        red, #f06d06
+      );
+}
