@@ -20,13 +20,31 @@
     text-align: center;
 }
 
-img {
+.img1,.img2,.img3,.img4 {
     image-rendering: auto;   
-    width: 400px;
-    height: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.img1 {
+    width: 250px;
+    height: 350px;
+}
+
+.img2 {
+    width: 700px;
+    height: 500px;
+}
+
+.img3 {
+    width: 400px;
+    height: 500px;
+}
+
+.img4 {
+    width: 600px;
+    height: 500px;
 }
 
 .gradient {
