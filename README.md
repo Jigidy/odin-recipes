@@ -30,3 +30,11 @@ Entry 3 (Final Entry Probably)
 - Links being added will be quick and easy. 
 
 Then after all of this we just have to publish it to the internet!
+
+Final, Final Entry
+
+- So we've added most of the CSS we've wanted to add. Its been an uphill trek mostly due to life not the code itself, but we're almost there. There are two things left I'm trying to accomplish. 
+1. I want to make each of the images look perf. I think perhaps a couple ID selectors may be best for this, but I'll need to double check.
+2. I want to make the background a gradient of color. It is a challenge I've put to myself to push myself a bit more forward.
+
+The first one should be easy, the second one may not be as simple. 
