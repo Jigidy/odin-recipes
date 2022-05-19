@@ -47,12 +47,4 @@
     height: 500px;
 }
 
-.gradient {
-    height: 100px;
-    background-color: red;
-    background-image:
-      linear-gradient(
-        to right, 
-        red, #f06d06
-      );
-}
+

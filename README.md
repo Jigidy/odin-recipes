@@ -38,3 +38,5 @@ Final, Final Entry
 2. I want to make the background a gradient of color. It is a challenge I've put to myself to push myself a bit more forward.
 
 The first one should be easy, the second one may not be as simple. 
+
+Last update: As it turns out, making a gradient is a little more complex then just writing a bit of CSS, so I think it may be better just to let it be for now and learn how to do it in a latter lesson. So we're going to just call this done and move forward. 
